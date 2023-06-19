@@ -1,0 +1,44 @@
+
+#bodyIndex{
+    background-color: rgb(232, 204, 255);
+}
+#h1Index{
+    text-align: center; 
+    background-color: rgb(115, 81, 147);
+     color: black; 
+}
+#divIndex{
+    text-align: center;
+}
+#imgIndex{
+    width:700px;
+     height: auto;  
+}
+
+.backgroundf{
+    background-color: rgb(255, 192, 240);
+}
+.h1f{
+    background-color: rgb(234, 45, 190);
+             color: black;
+              text-align: center;
+}
+.imgf{
+    width: 600px;
+     height: auto;
+     text-align: center;
+     float: left;
+
+}
+.ulf{
+    list-style-type: disc;
+}
+
+.backgroundm{
+    background-color: rgb(74, 74, 141);
+}
+.h1m{
+    background-color: blue;
+    color: black;
+    text-align: center;
+}
